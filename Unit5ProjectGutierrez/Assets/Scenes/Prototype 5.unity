@@ -541,7 +541,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4251dacc99b7eb4d8dbb21a30cca3b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targets: []
+  targets:
+  - {fileID: 1502429699032494410, guid: 4db40a1a2507a2d4f85743fd544669c4, type: 3}
+  - {fileID: 7978017573812070118, guid: 63c22c145b8f9504fb68819d994e7c62, type: 3}
+  - {fileID: 1017516949722220123, guid: 975f2d9938e6fac4898793f9b1162f00, type: 3}
+  - {fileID: 8660643725551318761, guid: ea37c57ce0ed66a439e6992b6dd360b1, type: 3}
   scoreText: {fileID: 0}
 --- !u!4 &988855718
 Transform:
