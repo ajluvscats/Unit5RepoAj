@@ -47,7 +47,7 @@ public class Target : MonoBehaviour
     {
         return new Vector3(Random.Range(-xRange, xRange), ySpawnPos);
     }
-    private void OnMouseDown()
+    private void OnMouseEnter()
     {
         if(gameManager.isGameActive)
         {
